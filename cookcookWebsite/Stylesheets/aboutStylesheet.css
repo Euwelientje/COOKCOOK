@@ -1,0 +1,37 @@
+.aboutTitleStyle h4 {
+  text-align: center;
+  font-family: "Playfair Display", sans-serif;
+  display: block;
+  font-size: 3em;
+}
+
+.aboutTitleStyle p, i {
+  text-align: center;
+  font-family: "Playfair Display", sans-serif;
+  display: block;
+  font-size:2em;
+  transform: translateY(25vh);
+}
+
+.aboutImg {
+width: 100%;
+
+}
+
+.aboutMe {
+  margin-top: 50px;
+}
+
+@media screen and (max-width:768px) {
+  .aboutImg {
+    width: 0px;
+  }
+}
+
+.aboutFooter {
+  transform: translateY(-100px);
+}
+
+.aboutText p {
+  font-family: "Playfair Display", sans-serif;
+}

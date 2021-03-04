@@ -1,0 +1,58 @@
+input {
+    width: 400px;
+    border: 1px;
+    border-style: solid;
+}
+
+textarea {
+    width: 400px;
+    height: 100px;
+    resize: none;
+    border: 1px;
+    border-style: solid;
+}
+
+.col-12 {
+    padding-left: 50vw;
+    transform: translateX(-200px);
+    margin: 5px;
+}
+
+.verstuurButton {
+    margin-top: 50px;
+    padding-left: 50vw;
+    transform: translateX(-102px);
+}
+
+main {
+    transform: translateY(150px);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.stuurMail {
+    text-align: center;
+    font-family: "Quicksand",sans-serif;
+}
+
+button {
+    background-color: #ffffff;
+    width: 200px;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+}
+
+button:hover {
+    background-color: #000000;
+    color: #ffffff;
+}

@@ -1,0 +1,45 @@
+td {
+    width: 50vw;
+    font-family: "Quicksand", sans-serif;
+    height: 100px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.wie {
+    font-weight: bold;
+    width: 10vw;
+}
+
+section {
+    transform: translateY(150px);
+    
+}
+
+h3 {
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: #000000;
+    position: relative;
+    font-weight: bold;
+}
+
+.recenties {
+    width: 60vw;
+    margin-left: 50vw;
+    transform: translateX(-30vw);
+}
+
+.subText {
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: #000000;
+    position: relative;
+}
+}
